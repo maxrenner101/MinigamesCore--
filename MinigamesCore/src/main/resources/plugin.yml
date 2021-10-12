@@ -1,0 +1,4 @@
+main: me.ghostplugins.core.MinigamesCore
+author: [GhostPlugins]
+commands:
+  hello:

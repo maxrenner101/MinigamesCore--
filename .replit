@@ -1,0 +1,2 @@
+language="Java"
+run="cd MinigamesCore/src && mvn clean && mvn package"
